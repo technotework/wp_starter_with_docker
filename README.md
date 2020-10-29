@@ -1,5 +1,7 @@
 # wp_starter_with_docker
 
+WordPress開発用のdocker-compose設定ファイルです。
+
 ## Dockerをいれます
 
 [DockerDesktop](https://www.docker.com/get-started)
